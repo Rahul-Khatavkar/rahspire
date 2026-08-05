@@ -117,42 +117,49 @@ https://rahspire-web.vercel.app/
 | AI         | ✦ Google Gemini AI                              |
 | Deployment | Vercel                                           |
 
-### Frontend
-
-- ⚛️ React
-- 📘 TypeScript
-- ⚡ Vite
-- 🎨 Tailwind CSS
-
-### Backend
-
-- 🟢 Node.js
-- 🚀 Express.js
-
-### AI
-
-- 🤖 Google Gemini AI
-
-### Deployment
-
-- ▲ Vercel
-
 ---
 
 ## 📸 Product Preview
 
-### Hero Section
+### HomePage
 
 ![Rahspire Hero](screenshots/hero.png)
 
 ---
 
-### Multi-Platform Content Creation
+### AI Tools
 
-![Orbit](screenshots/orbit.png)
+![AI Tools](screenshots/tools.png)
+
+### 🎬 YouTube Title Generator
+
+![YouTube Title Generator](screenshots/tools1.png)
 
 ---
 
+### 📝 YouTube Description Generator
+
+![YouTube Description Generator](screenshots/tools2.png)
+
+---
+
+### 💡 Hook Generator
+
+![Hook Generator](screenshots/tools3.png)
+
+---
+
+### 📸 Caption Generator
+
+![Caption Generator](screenshots/tools4.png)
+
+---
+
+### 🎯 Thumbnail Title Generator
+
+![Thumbnail Title Generator](screenshots/tools5.png)
+
+---
 ### Why Choose Rahspire
 
 ![Why Rahspire](screenshots/whychoose.png)
@@ -162,24 +169,6 @@ https://rahspire-web.vercel.app/
 ### How It Works
 
 ![How It Works](screenshots/how-it-works.png)
-
----
-
-### AI Tools
-
-![AI Tools](screenshots/tools.png)
-
----
-
-### Frequently Asked Questions
-
-![FAQs](screenshots/faqs.png)
-
----
-
-### Footer
-
-![Footer](screenshots/footer.png)
 
 ---
 
@@ -269,4 +258,19 @@ If you like Rahspire, consider giving this repository a ⭐.
 
 Your support helps the project grow.
 
+---
+
+# © Copyright Notice
+
+**Copyright © 2026 Rahul Khatavkar. All Rights Reserved.**
+
+This repository is published solely for portfolio and showcase purposes.
+
+The **Rahspire** name, branding, logo, user interface (UI), user experience (UX), source code, screenshots, documentation, and all original content contained in this repository are the intellectual property of Rahul Khatavkar and are protected by applicable copyright laws.
+
+No part of this repository may be copied, reproduced, modified, redistributed, republished, reverse engineered, or used to create derivative works without the prior written permission of the copyright holder.
+
+Unauthorized commercial or non-commercial use of any material contained in this repository is strictly prohibited.
+
+For licensing or permission requests, please contact the copyright holder.
 ---
