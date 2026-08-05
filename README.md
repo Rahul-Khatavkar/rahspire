@@ -104,11 +104,18 @@ No user accounts or unnecessary data collection—just open the website and star
 
 **Website**
 
-https://rahspire.vercel.app
+https://rahspire-web.vercel.app/
 
 ---
 
 ## 🛠️ Tech Stack
+
+| Category   | Technologies                                     |
+|------------|--------------------------------------------------|
+| Frontend   | ⚛️React ·📘TypeScript ·⚡Vite · 🎨Tailwind CSS |
+| Backend    | 🟢Node.js · 🚀Express.js                        |
+| AI         | ✦ Google Gemini AI                              |
+| Deployment | Vercel                                           |
 
 ### Frontend
 
@@ -166,7 +173,7 @@ https://rahspire.vercel.app
 
 ### Frequently Asked Questions
 
-![FAQs](screenshots/faq.png)
+![FAQs](screenshots/faqs.png)
 
 ---
 
