@@ -100,7 +100,7 @@ No user accounts or unnecessary data collection—just open the website and star
 
 ---
 
-## 🖥️ Live Demo
+## 🖥️ Live @
 
 **Website**
 
