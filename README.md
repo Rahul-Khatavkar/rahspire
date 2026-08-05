@@ -264,7 +264,7 @@ Your support helps the project grow.
 
 # © Copyright Notice
 
-**Copyright © 2026 Rahul Khatavkar. All Rights Reserved.**
+**Copyright © 2026 Rahspire. All Rights Reserved.**
 
 This repository is published solely for portfolio and showcase purposes.
 
